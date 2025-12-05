@@ -14,3 +14,16 @@ When a flame is present, the sensor sends a signal to the Arduino, which can the
 ---
 
 ## ⚙ Functions of Flame Sensor
+The Flame Sensor's main function is to **detect the presence or intensity of a flame** using infrared light.
+It provides two types of outputs:
+- **Analog Output:** Changes based on how strong or close/far the flame is.
+- **Digital Output:** Sends a simple HIGH or LOW signal to indicate if a flame is detected.
+
+---
+
+## 🔌 How it Works
+The sensor uses a photodiode that recognizes infrared radiation.
+When it detects IR light from a flame:
+- The **photodiode** senses the light.
+- A **comparator circuit** processes the signa.
+- 
