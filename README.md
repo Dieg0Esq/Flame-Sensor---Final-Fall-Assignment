@@ -42,4 +42,7 @@ When it detects IR light from a flame:
 |GND               | GND on Arduino |
 |AO (Analog Out)   | Analog in 0  |
 
-<img src="blob:chrome-untrusted://media-app/b9da19bf-9eae-4158-8ff2-42c48ca9e8ea" alt="979ab5d5-2351-4bb8-a06b-b55e11e01e2b.jpg"/><img width="629" height="419" alt="image" src="https://github.com/user-attachments/assets/450c82c9-2261-44fa-9a1f-43d0f316fe42" />
+<div align="left">
+
+<img width="629" height="419" alt="image" src="https://github.com/user-attachments/assets/d725338a-134d-409f-a959-bfbbb6f8d816" />
+</p>
