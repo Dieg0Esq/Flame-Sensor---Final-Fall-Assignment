@@ -48,5 +48,6 @@ When it detects IR light from a flame:
 </p>
 
 
-https://github.com/user-attachments/assets/d5d13c8d-2757-4555-b9c0-6cfc44ee6138
+
+https://github.com/user-attachments/assets/622ffeae-4572-455e-aa7c-ba78eecf78f6
 
