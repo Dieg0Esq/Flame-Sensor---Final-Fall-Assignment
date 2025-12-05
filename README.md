@@ -15,9 +15,8 @@ When a flame is present, the sensor sends a signal to the Arduino, which can the
 
 ## ⚙ Functions of Flame Sensor
 The Flame Sensor's main function is to **detect the presence or intensity of a flame** using infrared light.
-It provides two types of outputs:
+It provides the following outputs:
 - **Analog Output:** Changes based on how strong or close/far the flame is.
-- **Digital Output:** Sends a simple HIGH or LOW signal to indicate if a flame is detected.
 
 ---
 
@@ -33,7 +32,7 @@ When it detects IR light from a flame:
 ## 🔧 How to Use It
 ### 📃 Components You'll Need
 - Arduino
-- Keyestudio Flame Sensor
+- Keyestudio Flame Sensor (Ks0036)
 - Jumper wires
 
 ### 🔗 Circuit Connections
@@ -42,3 +41,5 @@ When it detects IR light from a flame:
 |VCC               | 5V on Arduino |
 |GND               | GND on Arduino |
 |AO (Analog Out)   | Analog in 0  |
+
+<img src="blob:chrome-untrusted://media-app/b9da19bf-9eae-4158-8ff2-42c48ca9e8ea" alt="979ab5d5-2351-4bb8-a06b-b55e11e01e2b.jpg"/><img width="629" height="419" alt="image" src="https://github.com/user-attachments/assets/450c82c9-2261-44fa-9a1f-43d0f316fe42" />
