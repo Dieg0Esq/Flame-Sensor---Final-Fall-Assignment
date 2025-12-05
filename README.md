@@ -46,3 +46,7 @@ When it detects IR light from a flame:
 
 <img width="629" height="419" alt="image" src="https://github.com/user-attachments/assets/d725338a-134d-409f-a959-bfbbb6f8d816" />
 </p>
+
+
+https://github.com/user-attachments/assets/d5d13c8d-2757-4555-b9c0-6cfc44ee6138
+
