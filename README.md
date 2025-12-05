@@ -26,4 +26,19 @@ The sensor uses a photodiode that recognizes infrared radiation.
 When it detects IR light from a flame:
 - The **photodiode** senses the light.
 - A **comparator circuit** processes the signa.
-- 
+- The sensor sends the result to the **Arduino** through the output pins.
+
+---
+
+## 🔧 How to Use It
+### 📃 Components You'll Need
+- Arduino
+- Keyestudio Flame Sensor
+- Jumper wires
+
+### 🔗 Circuit Connections
+| Flame Sensor Pin | Connects to |
+|------------------|-------------|
+|VCC               | 5V on Arduino |
+|GND               | GND on Arduino |
+|AO (Analog Out)   | Analog in 0  |
